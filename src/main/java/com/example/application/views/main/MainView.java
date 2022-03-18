@@ -12,7 +12,7 @@ import com.vaadin.flow.router.Route;
 import com.ChartsData;
 import com.ChartsData.WeatherInfo;
 
-@PageTitle("Main")
+@PageTitle("Weather Stats")
 @Route(value = "/")
 public class MainView extends VerticalLayout {
 
